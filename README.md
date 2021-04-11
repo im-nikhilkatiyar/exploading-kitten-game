@@ -5,6 +5,7 @@
 ### `npm install`
 
 Install all the dependencies for the app.
+*NOTE: switch into front-end directory to install the dependencies for the client side.
 
 ### `npm run dev`
 
